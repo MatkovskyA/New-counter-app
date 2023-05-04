@@ -1,3 +1,7 @@
+body {
+    font-family: manrope;
+}
+
 .container {
     box-sizing: border-box;
     max-width: 900px;
@@ -38,7 +42,6 @@ p {
     padding: 15px;
     background-color: #fff;
     border-radius: 15px;
-    font-weight: 700;
     font-size: 32px;
     line-height: 44px;
 }
